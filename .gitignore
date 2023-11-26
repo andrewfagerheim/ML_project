@@ -1,3 +1,4 @@
 data/
 .gsdownload
 .ipynb_checkpoints/
+model/
