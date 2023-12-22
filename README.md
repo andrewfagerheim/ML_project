@@ -16,3 +16,7 @@ This repo contains the following files and directories:
 - submeso_ml_model: notebook to create and visualize the output of tensorflow model
 - sweeps: notebook that attempted to run detailed hyperparameter sweeps with wandb
 - torch_model: notebook to train pytorch CNN model
+
+# DIRECTIONS:
+1. run get_data.ipynb to retrieve the data and save it to a data folder.
+2. run submeso_ml_model.ipynb to load the data, run the model, and evaluate the model.
